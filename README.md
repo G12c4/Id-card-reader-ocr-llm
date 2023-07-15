@@ -1,4 +1,4 @@
-# OCR Information Extractor
+# OCR+OpenAi Identity document Extractor
 
 This is a Python project that uses EasyOCR and OpenAI to extract specific information from an image and format it into a specific structure. It follows best practices such as error handling, dataclasses, and small, well-documented functions.
 
@@ -6,9 +6,9 @@ This is a Python project that uses EasyOCR and OpenAI to extract specific inform
 
 Before you begin, ensure that you have the latest version of Python installed. We recommend Python 3.7 or later. You can verify your Python installation by using the following command:
 
-\```bash
+```bash
 python --version
-\```
+```
 
 To install the necessary libraries for this project, use pip, which is a package manager for Python.
 
