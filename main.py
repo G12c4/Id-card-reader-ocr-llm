@@ -74,7 +74,7 @@ def get_completion(prompt: str) -> Optional[str]:
 
 
 def main():
-    image_path = "/Users/josip/Downloads/osobna1.jpg"
+    image_path = "/Users/User/Downloads/osobna.jpg"
     
     # Load model
     reader = load_model()
