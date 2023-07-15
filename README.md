@@ -1,6 +1,6 @@
 # OCR+OpenAi Identity document Extractor
 
-This is a Python project that uses EasyOCR and OpenAI to extract specific information from an image and format it into a specific structure. It follows best practices such as error handling, dataclasses, and small, well-documented functions.
+This is a Python demo proof of concept project that uses EasyOCR and OpenAI to extract specific information from an image and format it into a specific structure. It follows best practices such as error handling, dataclasses, and small, well-documented functions.
 
 ## Installation
 
